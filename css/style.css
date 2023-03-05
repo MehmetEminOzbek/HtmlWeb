@@ -1,0 +1,149 @@
+*{
+  margin: 0;
+  padding : 0;
+}
+#sayfa{
+  width: 400px;
+  min-height: 600px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+  margin: auto;
+}
+#banner{
+  width: 398px;
+  height: 100px;
+  border-style: dot;
+  border-width: 1px;
+  border-color: black;
+  background-color: white;
+  margin: auto;
+}
+
+#logo{
+  width: 70px;
+  height: 80px;
+  position: relative;
+  top: 10px;
+  left: 10px;
+  float: left;
+}
+#sosyal{
+  width: 150px;
+  height: 40px;
+  position: relative;
+  top: 50px;
+  right: 10px;
+  float: right ;
+}
+.logo{
+  border-radius: 10vh;
+  width: 70px;
+  height: 80px;
+  background-position: center;
+}
+.sosyals{
+  margin-top: px;
+  width: 40px;
+  height: 40px;
+}
+
+#github{
+background-color: black;
+border-radius: 1000vh;
+}
+#insta{
+  margin-right: 10px;
+}
+#linkedin{
+  margin-left: 10px;
+}
+#anamenu{
+  width: 398px;
+  height: 50px;
+  margin: auto;
+}
+#anamenu ul{
+  list-style-type: none;
+}
+#anamenu ul li {
+  background-color: black;
+  width: 73px;
+  color: green;
+  float: left;
+  padding: 5px;
+  margin-top: 10px;
+  left: 20px;
+  margin-left: 5px;
+  position: relative;
+  top: 5px;
+  list-style-type: none;
+  border-radius: 10px;
+  text-align: center;
+}
+#anamenu ul li a {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-decoration: none;
+  color: white;
+  font-size: 14px;
+}
+#anamenu ul li:hover {
+  background-color: white;
+}
+#anamenu ul li a:hover{
+  color: black;
+}
+#anamenu ul li a:active{
+  color: green;
+}
+#icerik{
+  margin-top: 10px;
+  width: 300px;
+  min-height: 440px;
+  border-style: dotted;
+  border-width: 2px;
+  border-color: black;
+  background-color: white;
+  float: left;
+}
+#yanmenu{
+margin-top: 10px;
+width: 94px;
+min-height: 440px;
+border-style: dotted;
+border-width: 2px;
+border-color: black;
+background-color: royalblue;
+float: left;
+}
+.bas{
+  padding: 10px;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-top: 10px;
+}
+article div img{
+  margin-top: 1vh;
+  width: 150px;
+  height: 100px;
+  float: left;
+  border-radius: 2vh;
+  margin-top: 2vh;
+}
+article div .imgss{
+  
+}
+article div p{
+  font-size: xx-small;
+  text-align: center;
+  text-decoration: line-through;
+  margin-top: 4vh;
+}
+#yanmenu{
+  text-align: center;
+}
+#yanmenu p{
+  top: 10px;
+  padding:1px;
+
+}
